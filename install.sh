@@ -20,7 +20,7 @@ echo ""
 echo "[3] Воостановить панель Pterodactyl"
 echo "[4] Выйти"
 
-read -p "Please enter a number: " choice
+read -p "Пожалуйста, введите цифру: " choice
 if [ $choice == "1" ]
     then
     repair
