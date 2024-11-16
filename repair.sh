@@ -30,10 +30,10 @@ repairPanel(){
 }
 
 while true; do
-    read -p "Are you sure that you want to repair the panel [y/n]? " yn
+    read -p "Вы точно хотите воостановить панель? [y/n]? " yn
     case $yn in
         [Yy]* ) repairPanel; break;;
         [Nn]* ) exit;;
-        * ) echo "Please answer yes or no.";;
+        * ) echo "Напишите y/n.";;
     esac
 done
