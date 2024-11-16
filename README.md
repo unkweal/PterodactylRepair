@@ -1,3 +1,5 @@
-Команда для установки скрипта:
+Для установки скрипта нужно скачать файл repair.sh и install.sh
 
-bash <(curl https://raw.githubusercontent.com/unkweal/PterodactylRepair/install.sh)
+Закиньте их на вдс, после чего введите в консоль команду ./install.sh
+
+Дело в шляпе, пользуйтесь
