@@ -1,9 +1,9 @@
-Автоматический скрипт установки:
+# Автоматический скрипт установки:
 
 bash <(curl https://raw.githubusercontent.com/unkweal/PterodactylRepair/refs/heads/master/install.sh)
 
 
-Установка вручную:
+# Установка вручную:
 
 git clone https://github.com/unkweal/PterodactylRepair.git
 
