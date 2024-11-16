@@ -17,8 +17,8 @@ echo ""
 echo "Discord: https://discord.gg/A6m8usQUsf"
 echo "Website: https://store.lamebox.us"
 echo ""
-echo "[3] Воостановить панель Pterodactyl"
-echo "[4] Выйти"
+echo "[1] Воостановить панель Pterodactyl"
+echo "[2] Выйти"
 
 read -p "Пожалуйста, введите цифру: " choice
 if [ $choice == "1" ]
