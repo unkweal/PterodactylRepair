@@ -1,5 +1,9 @@
-Для установки скрипта нужно скачать файл repair.sh и install.sh
+Для установки скрипта выполните команды:
 
-Закиньте их на вдс, после чего введите в консоль команду ./install.sh
+git clone https://github.com/unkweal/PterodactylRepair.git
 
-Дело в шляпе, пользуйтесь
+cd PterodactylRepair
+
+chmod +x install.sh
+
+./install.sh
