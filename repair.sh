@@ -1,5 +1,5 @@
 if (( $EUID != 0 )); then
-    echo "Please run as root"
+    echo "Пожалуйста, запустите от root"
     exit
 fi
 
