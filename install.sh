@@ -11,8 +11,8 @@ repair(){
     bash <(curl https://raw.githubusercontent.com/Ryzen-DevZ/ThemePterodactyl/main/repair.sh)
 }
 
-echo "Copyright (c) 2024 LameBox | https://discord.gg/A6m8usQUsf"
-echo "Эта программа является бесплатной. Вы можете сливать ее или изменять."
+echo "Copyright (c) 2024 unkweal"
+echo "Этот скрипт является бесплатным. Вы можете сливать его или изменять."
 echo ""
 echo "Discord: https://discord.gg/A6m8usQUsf"
 echo "Website: https://store.lamebox.us"
